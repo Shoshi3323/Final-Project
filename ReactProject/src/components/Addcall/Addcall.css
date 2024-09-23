@@ -1,0 +1,27 @@
+body{
+    height: 100%;
+ }
+ 
+ 
+ .image1{
+     background-image: url("./aambulance-in-background.jpg");
+     background-repeat: no-repeat;
+     background-position: center;
+     background-size: cover;
+     height:100vh; 
+    
+      background-image: cross-fade();
+     
+ }
+ .Show{
+   margin-top:10vh;
+ }
+/* 
+ .image1 .Show {
+    opacity: 1;
+  } */
+
+
+  /* ShowCombobox{
+
+  } */

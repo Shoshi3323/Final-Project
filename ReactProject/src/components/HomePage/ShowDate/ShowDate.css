@@ -1,0 +1,8 @@
+body{
+  height: 100%;
+}
+.date-picker{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}

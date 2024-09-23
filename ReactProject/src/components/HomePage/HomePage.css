@@ -1,0 +1,37 @@
+body{
+   height: 100%;
+   width: 100%;
+}
+
+
+.image{
+    background-image: url("./ambulance-in-background.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height:100vh; 
+}
+.routing-buttons .fab .link{
+    text-decoration: none;
+
+}
+
+.routing-buttons{
+    display: flex;
+    flex-direction:column ;
+    justify-content:center;
+    margin:5vh ;
+    width:10vw ;
+    margin-left:45vw;
+ 
+}
+
+.show-ambulance{
+    color:rgb(223, 223, 219);
+    margin-right:40vw;
+    text-align: right;
+    line-height: 2;
+    /* text-shadow: 1px 1px; */
+    /* text-shadow: 2px 2px 5px rgb(92, 2, 2); */
+    size: 5px;
+}
